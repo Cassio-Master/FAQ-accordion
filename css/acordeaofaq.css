@@ -1,0 +1,90 @@
+.fundo{
+    background: rgb(59, 25, 61);
+    background-size: cover;
+    height: 250px;
+    position: relative;
+}
+
+body{
+    margin: 0;
+    background:rgb(231, 227, 227);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.quadrado{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 470px;
+    position: relative;
+    top: 120px;
+    left: 400px;
+    border-radius: 20px;
+}
+
+.estrela{
+    position: relative;
+    top: 54px;
+    left: 40px;
+
+}
+
+.titulo{
+    position: relative;
+left: 90px;
+bottom: 25px;
+font-size: 45px;
+}
+
+.pergunta{
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+}
+
+.x{
+    position: relative;
+    left: 60px;
+    bottom: 26px;
+}
+
+.conteudo{
+    position: relative;
+    left: 40px
+}
+
+.pri{
+    position: relative;
+    left: 40px;
+bottom: 5px;
+}
+
+.mais{
+    position: relative;
+    left: 248px;
+    top: 2px;
+}
+
+.seg{
+    position: relative;
+    left: 40px;
+bottom: 5px;
+}
+
+.mais2{
+    position: relative;
+    left: 45px;
+bottom: 1px;
+}
+
+.ter{
+    position: relative;
+    left: 40px;
+
+}
+
+.mais3{
+    position: relative;
+    top: 5px;
+    left: 45px;
+} 
